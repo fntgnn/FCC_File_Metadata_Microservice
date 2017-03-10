@@ -9,7 +9,7 @@
     <h2>Upload a file</h2>
     <form class="form-group" enctype="multipart/form-data" method="post">
       <label class="custom-file">
-        <input type="file" id="file" name='file' class="custom-file-input btn btn-default">
+        <input type="file" id="file" name='file' value="" class="custom-file-input btn btn-default">
         <span class="custom-file-control"></span>
       </label>
     <button type="submit" class="btn btn-primary">Upload</button>
