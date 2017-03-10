@@ -2,7 +2,7 @@
 
 Free Code Camp challenge: https://www.freecodecamp.com/challenges/file-metadata-microservice
 
-
+File size < 100KB
 ## Built With
 
 * [Express generator](https://www.npmjs.com/package/express-generator) - The web framework used
