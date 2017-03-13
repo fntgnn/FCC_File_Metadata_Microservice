@@ -1,6 +1,8 @@
 # File Metadata Microservice
 
-Free Code Camp challenge: https://www.freecodecamp.com/challenges/file-metadata-microservice
+Free Code Camp challenge: https://www.freecodecamp.com/challenges/file-metadata-microservice.
+
+Demo: https://fntgnn-fcc-file-metadata.herokuapp.com/
 
 File size < 100KB
 ## Built With
